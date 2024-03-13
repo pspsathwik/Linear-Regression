@@ -1,0 +1,9 @@
+{
+	"name": "adf-psp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0afa387d-19f2-4d9f-9897-522538fa6e49",
+		"tenantId": "e06427cd-4171-4e9f-b02b-a27ac61a124a"
+	}
+}
